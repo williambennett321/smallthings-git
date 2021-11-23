@@ -13,5 +13,5 @@ const FunctionalThings = (props) => {
     </>
   )
 }
- 
+
 export default FunctionalThings
